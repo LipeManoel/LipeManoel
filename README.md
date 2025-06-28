@@ -4,7 +4,7 @@
 
  Eai!🤟 Meu nome é Felipe Manoel Rodrigues Pessoa
 
-Estudante de Ciência da Computação e áreas semelhantes.
+Estudante de Ciência da Computação e áreas afins.
 
 
 
