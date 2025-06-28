@@ -11,7 +11,7 @@ Estudante de Ciência da Computação e áreas afins.
 ## 📈 Estatísticas do GitHub	
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
-  <a href="https://github.com/LipeManoel" style="margin-right: 10px;">
+  <a href="https://github.com/LipeManoel" style="center: 10px;">
     <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=LipeManoel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
 </div>
