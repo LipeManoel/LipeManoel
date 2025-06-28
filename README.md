@@ -11,10 +11,10 @@ Estudante de Ciência da Computação e áreas semelhantes.
 ## 📈 Estatísticas do GitHub	
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
-  <a href="https://github.com/Cavicf" style="margin-right: 10px;">
+  <a href="https://github.com/LipeManoel" style="margin-right: 10px;">
     <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=LipeManoel&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Cavicf">
+  <a href="https://github.com/LipeManoel">
     <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeManoel&layout=compact&langs_count=7&theme=darcula"/>
   </a>
 </div>
