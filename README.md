@@ -17,7 +17,3 @@ Explore my hobby projects on [Itch.io](https://jeff-ghosty.itch.io)
 - **Email:** felipemanuel.p@gmail.com
 
 ---
-
-## 🖤 Style
-
-> Black & minimalist
