@@ -5,16 +5,13 @@
 
  Eai! Meu nome é Felipe Manoel Rodrigues Pessoa
 
-Estudante de Ciência da Computação e áreas afins.
-
-- **Avançado:** C
-- **Intermediário em:** HTML5, JavaScript, CSS, Python, MySQL
-- **Básico em:** Java, PHP, N8N, Git
-- **Lógica de programação:** muita experiência e compreenção!
+Sou estudante de Ciência da Computação, com grande interesse em desenvolvimento de software, lógica de programação e tecnologias afins.
 
 #### 🎮 Desenvolvimento de jogos
 
 Expore meus projetos em [Itch.io](https://jeff-ghosty.itch.io)
+
+Esse processode criação de jogos me ajuda a evoluir tanto como programador quanto como game designer, exercitando lógica, estrutura de código, pensamento orientado a objetos, UX, criatividade e resolução de problemas em tempo real.
 
 
 
@@ -32,19 +29,15 @@ Expore meus projetos em [Itch.io](https://jeff-ghosty.itch.io)
 
 
 
-### 🛠️ Ferramentas e Tecnologias
+### ⚙️ Ferramentas e Tecnologias
 ---
 
 Aqui estão algumas das principais tecnologias e linguagens que venho utilizando em meus estudos e projetos pessoais. Estou sempre em busca de aprender mais e explorar novas ferramentas!
-<div style="display: inline_block"><br>
-  <img align="center" alt="Camy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Camy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Camy-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Camy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Camy-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
- <img align="center" alt="Camy-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
 
+- **Avançado:** C
+- **Intermediário em:** HTML5, JavaScript, CSS, Python, MySQL
+- **Básico em:** Java, PHP, N8N, Git
+- **Lógica de programação:** muita experiência e compreenção!
 
 
 
