@@ -11,7 +11,7 @@ Estudante de Ciência da Computação e áreas afins.
 - **Básico em:** Java, PHP, N8N, Git
 - **Lógica de programação:** muita experiência e compreenção!
 
-# 🎮 Desenvolvimento de jogos
+### 🎮 Desenvolvimento de jogos
 
 Expore meus projetos de jogos em [Itch.io](https://jeff-ghosty.itch.io)
 
