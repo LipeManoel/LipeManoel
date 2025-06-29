@@ -1,8 +1,9 @@
 ![](banner.png)
 
-## 👩‍💻 Sobre Mim
+### 🤓 Sobre Mim
+---
 
- Eai!🤟 Meu nome é Felipe Manoel Rodrigues Pessoa
+ Eai! Meu nome é Felipe Manoel Rodrigues Pessoa
 
 Estudante de Ciência da Computação e áreas afins.
 
@@ -13,13 +14,14 @@ Estudante de Ciência da Computação e áreas afins.
 
 #### 🎮 Desenvolvimento de jogos
 
-Expore meus projetos de jogos em [Itch.io](https://jeff-ghosty.itch.io)
+Expore meus projetos em [Itch.io](https://jeff-ghosty.itch.io)
 
 
 
 
 
 ### 📈 Estatísticas do GitHub	
+---
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
   <a href="https://github.com/LipeManoel" style="margin-right: 10px;">
@@ -30,7 +32,8 @@ Expore meus projetos de jogos em [Itch.io](https://jeff-ghosty.itch.io)
 
 
 
-### 🛠️ Ferramentas e Tecnologias 
+### 🛠️ Ferramentas e Tecnologias
+---
 
 Aqui estão algumas das principais tecnologias e linguagens que venho utilizando em meus estudos e projetos pessoais. Estou sempre em busca de aprender mais e explorar novas ferramentas!
 <div style="display: inline_block"><br>
@@ -47,8 +50,9 @@ Aqui estão algumas das principais tecnologias e linguagens que venho utilizando
 
 
 ### 📫 Contato
+---
 
 - **LinkedIn:** [Felipe Manoel Rodrigues Pessoa](https://www.linkedin.com/in/felipe-manoel-rodrigues-pessoa/)
 - **Email:** felipemanuel.p@gmail.com
 
----
+
