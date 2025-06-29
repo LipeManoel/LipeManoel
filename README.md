@@ -6,10 +6,10 @@
 
 Estudante de Ciência da Computação e áreas afins.
 
-- **Advanced in:** C
-- **Intermediate in:** HTML5, JavaScript, CSS, Python, MySQL
-- **Basic in:** Java, PHP, N8N
-- **Programming Logic:** Strong skills and experience
+- **Avançado:** C
+- **Intermediário em:** HTML5, JavaScript, CSS, Python, MySQL
+- **Básico em:** Java, PHP, N8N, Git
+- **Lógica de programação:** Strong skills and experience
 
 
 
