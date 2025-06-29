@@ -11,6 +11,10 @@ Estudante de Ciência da Computação e áreas afins.
 - **Básico em:** Java, PHP, N8N, Git
 - **Lógica de programação:** Strong skills and experience
 
+# 🎮 Desenvolvimento de jogos
+
+Expore meus projetos de jogos em [Itch.io](https://jeff-ghosty.itch.io)
+
 
 
 ## 📈 Estatísticas do GitHub	
@@ -24,7 +28,7 @@ Estudante de Ciência da Computação e áreas afins.
 
 ## 🛠️ Ferramentas e Tecnologias 
 
-Aqui estão algumas das principais tecnologias e linguagens que venho utilizando em meus estudos e projetos pessoais. Estou sempre em busca de aprender mais e explorar novas ferramentas!More actions
+Aqui estão algumas das principais tecnologias e linguagens que venho utilizando em meus estudos e projetos pessoais. Estou sempre em busca de aprender mais e explorar novas ferramentas!
 <div style="display: inline_block"><br>
   <img align="center" alt="Camy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Camy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,9 +38,7 @@ Aqui estão algumas das principais tecnologias e linguagens que venho utilizando
  <img align="center" alt="Camy-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-## 🎮 Desenvolvimento de jogos
 
-Expore meus projetos de jogos em [Itch.io](https://jeff-ghosty.itch.io)
 
 ## 📫 Contato
 
