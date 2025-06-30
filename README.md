@@ -12,7 +12,7 @@ Sou estudante de Ciência da Computação, com grande interesse em desenvolvimen
 
 Explore meus projetos em [Itch.io](https://jeff-ghosty.itch.io)
 
-Esse processode criação de jogos me ajuda a evoluir tanto como programador quanto como game designer, exercitando lógica, estrutura de código, pensamento orientado a objetos, UX, criatividade e resolução de problemas em tempo real.
+Esse processo de criação de jogos me ajuda a evoluir tanto como programador quanto como game designer, exercitando lógica, estrutura de código, pensamento orientado a objetos, UX, criatividade e resolução de problemas em tempo real.
 
 
 
