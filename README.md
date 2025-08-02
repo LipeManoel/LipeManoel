@@ -44,4 +44,4 @@ Aqui estão algumas das principais tecnologias e linguagens que venho utilizando
 
 - **LinkedIn:** [Felipe Manoel Rodrigues Pessoa](https://www.linkedin.com/in/felipe-manoel-rodrigues-pessoa/)
 - **Email:** felipemanuel.p@gmail.com
-- **Instagram:** instagram.com/felipe.manoel.r.pessoa
+- **Instagram:** https://www.instagram.com/felipe.manoel.r.pessoa?igsh=MmoydTJuZnkzMTJr
