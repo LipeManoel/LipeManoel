@@ -1,22 +1,23 @@
 ![](banner.png)
 
-### 🤓 Sobre Mim
+### 🤓 About Me
 ---
 
-Eai! Meu nome é Felipe Manoel Rodrigues Pessoa
+Hey! My name is **Felipe Manoel Rodrigues Pessoa**.
 
-Sou estudante de Ciência da Computação, com grande interesse em desenvolvimento de software, lógica de programação e tecnologias afins.
+I am a brazilian **Computer Science student** with a strong interest in **software development**, **programming logic**, and related technologies.
 
+---
 
-#### 🎮 Desenvolvimento de jogos
+#### 🎮 Game Development
 
-Explore meus projetos em [Itch.io](https://jeff-ghosty.itch.io)
+Explore my projects on [Itch.io](https://jeff-ghosty.itch.io)
 
-Esse processo de criação de jogos me ajuda a evoluir tanto como programador quanto como game designer, exercitando lógica, estrutura de código, pensamento orientado a objetos, UX, criatividade e resolução de problemas em tempo real.
+This game development process helps me grow both as a **programmer** and a **game designer**, strengthening skills such as **logic**, **code structure**, **object-oriented thinking**, **UX**, **creativity**, and **real-time problem-solving**.
 
+---
 
-
-### 📈 Estatísticas do GitHub	
+### 📈 GitHub Stats
 ---
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
@@ -25,20 +26,20 @@ Esse processo de criação de jogos me ajuda a evoluir tanto como programador qu
   </a>
 </div>
 
-
-
-### ⚙️ Ferramentas e Tecnologias
 ---
 
-Aqui estão algumas das principais tecnologias e linguagens que venho utilizando em meus estudos e projetos pessoais. Estou sempre em busca de aprender mais e explorar novas ferramentas!
+### ⚙️ Tools and Technologies
+---
 
-- **Avançado:** C, lógica de programação
-- **Intermediário em:** HTML5, JavaScript, CSS, React 
-- **Básico em:** Java, N8N, Python, MySQL
+Here are some of the main technologies and languages I’ve been using in my studies and personal projects. I’m always eager to learn more and explore new tools!
 
+- **Advanced:** C, programming logic  
+- **Intermediate:** HTML5, JavaScript, CSS, React  
+- **Basic:** Java, n8n, Python, MySQL  
 
+---
 
-### 📫 Contato
+### 📫 Contact
 ---
 
 - **LinkedIn:** [Felipe Manoel Rodrigues Pessoa](https://www.linkedin.com/in/felipe-manoel-rodrigues-pessoa/)
