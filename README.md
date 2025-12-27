@@ -33,9 +33,9 @@ Esse processo de criação de jogos me ajuda a evoluir tanto como programador qu
 Aqui estão algumas das principais tecnologias e linguagens que venho utilizando em meus estudos e projetos pessoais. Estou sempre em busca de aprender mais e explorar novas ferramentas!
 
 - **Avançado:** C
-- **Intermediário em:** HTML5, JavaScript, CSS, Python, MySQL
-- **Básico em:** Java, PHP, N8N, Git
-- **Lógica de programação:** muita experiência e compreenção!
+- **Intermediário em:** HTML5, JavaScript, CSS, React, Python, MySQL
+- **Básico em:** Java, N8N
+- **Lógica de programação:** experiência e compreenção
 
 
 
