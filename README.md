@@ -39,6 +39,6 @@ Here are some of the main technologies and languages I’ve been using in my stu
 ### 📫 Contact
 ---
 
-- **LinkedIn:** [Felipe Manoel Rodrigues Pessoa](https://www.linkedin.com/in/felipe-manoel-rodrigues-pessoa/)
+- **LinkedIn:** [Felipe Manoel Rodrigues Pessoa](https://www.instagram.com/felipe.manoel.r.pessoa/)
 - **Email:** felipemanuel.p@gmail.com
 - **Instagram:** https://www.instagram.com/felipe.manoel.r.pessoa?igsh=MmoydTJuZnkzMTJr
