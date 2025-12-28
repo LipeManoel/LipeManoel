@@ -7,7 +7,6 @@ Hey! My name is **Felipe Manoel Rodrigues Pessoa**.
 
 I am a brazilian **Computer Science student** with a strong interest in **software development**, **programming logic**, and related technologies.
 
----
 
 #### 🎮 Game Development
 
@@ -15,7 +14,6 @@ Explore my projects on [Itch.io](https://jeff-ghosty.itch.io)
 
 This game development process helps me grow both as a **programmer** and a **game designer**, strengthening skills such as **logic**, **code structure**, **object-oriented thinking**, **UX**, **creativity**, and **real-time problem-solving**.
 
----
 
 ### 📈 GitHub Stats
 ---
@@ -26,7 +24,6 @@ This game development process helps me grow both as a **programmer** and a **gam
   </a>
 </div>
 
----
 
 ### ⚙️ Tools and Technologies
 ---
@@ -37,7 +34,6 @@ Here are some of the main technologies and languages I’ve been using in my stu
 - **Intermediate:** HTML5, JavaScript, CSS, React  
 - **Basic:** Java, n8n, Python, MySQL  
 
----
 
 ### 📫 Contact
 ---
