@@ -1,13 +1,13 @@
 ![](banner.png)
 
-### 🤓 About Me
+### 👋 About Me
 ---
 
 Computer Science student with hands-on experience in Level 1 technical support, basic networking, computer maintenance, and web development using React. Experience working with internal systems, customer support via WhatsApp, platform testing, and projects deployed in production.
 
 
 
-#### 🎮 Game Development
+#### 👻 Game Development
 
 Explore my projects on [Itch.io](https://jeff-ghosty.itch.io)
 
@@ -29,9 +29,10 @@ This game development process helps me grow both as a **programmer** and a **gam
 
 Here are some of the main technologies and languages I’ve been using in my studies and personal projects. I’m always eager to learn more and explore new tools!
 
-- **Advanced:** C, programming logic  
-- **Intermediate:** HTML5, JavaScript, CSS, React  
-- **Basic:** Java, n8n, Python, MySQL  
+- C (basic to intermediate)
+- HTML, JavaScript, CSS (basic to intermediate)
+- Python (basic)
+- Java (very basic)
 
 
 ### 📫 Contact
