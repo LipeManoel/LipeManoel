@@ -34,7 +34,7 @@ React.js, Vite (basic to intermediate)
 HTML, JavaScript, CSS (basic to intermediate)
 Python (basic)
 Java (very basic)
-  
+
 Github Desktop 
 VS Code
 Code Blocks
