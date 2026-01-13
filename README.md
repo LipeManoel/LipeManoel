@@ -29,15 +29,15 @@ This game development process helps me grow both as a **programmer** and a **gam
 
 Here are some of the main technologies and programming languages I’ve been using in my studies and personal projects. I’m always eager to learn more and explore new tools!
 
-C (basic to intermediate)
-React.js, Vite (basic to intermediate)
-HTML, JavaScript, CSS (basic to intermediate)
-Python (basic)
-Java (very basic)
+--C (basic to intermediate)
+--React.js, Vite (basic to intermediate)
+--HTML, JavaScript, CSS (basic to intermediate)
+--Python (basic)
+--Java (very basic)
 
-Github Desktop 
-VS Code
-Code Blocks
+--Github Desktop 
+--VS Code
+--Code Blocks
 
 
 ### 📫 Contact
