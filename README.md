@@ -3,9 +3,7 @@
 ### 🤓 About Me
 ---
 
-Hey! My name is **Felipe Manoel Rodrigues Pessoa**.
-
-I am a brazilian **Computer Science student** with a strong interest in **software development**, **programming logic**, and related technologies.
+Computer Science student with hands-on experience in Level 1 technical support, basic networking, computer maintenance, and web development using React. Experience working with internal systems, customer support via WhatsApp, platform testing, and projects deployed in production.
 
 
 
