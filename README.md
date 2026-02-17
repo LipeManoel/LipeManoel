@@ -33,17 +33,23 @@ Here are some of the main technologies and programming languages I’ve been usi
 
 C (basic to intermediate)
 
-React.js, Vite (basic to intermediate)  
+React.js, Vite
   
-HTML, JavaScript, CSS (basic to intermediate)  
+HTML, JavaScript, CSS
 
 Python (basic)
 
 Java (very basic)
 
+MySQL
+
+PostgreSQL
+
 #### 🔧 Tools
 
-MySQL
+Supabase
+
+Vercel
 
 Github Desktop
 
