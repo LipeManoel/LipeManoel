@@ -31,31 +31,21 @@ Here are some of the main technologies and programming languages I’ve been usi
 
 #### 🛠️ Technologies
 
-C (basic to intermediate)
-
-React.js, Vite
-  
-HTML, JavaScript, CSS
-
-Python (basic)
-
-Java (very basic)
-
-MySQL
-
-PostgreSQL
+- React.js, Vite
+- HTML, JavaScript, CSS
+- C (basic to intermediate)
+- Python (basic)
+- Java (very basic)
+- MySQL
+- PostgreSQL
 
 #### 🔧 Tools
 
-Supabase
-
-Vercel
-
-Github Desktop
-
-VS Code
-
-Code::Blocks
+- Supabase
+- Vercel
+- Github Desktop
+- VS Code
+- Code::Blocks
 
 
 ### 📫 Contact
